@@ -1,0 +1,6 @@
+{
+  "name": "মাদ্রাসা ম্যানেজমেন্ট",
+  "description": "সম্পূর্ণ অফলাইন মাদ্রাসা ব্যবস্থাপনা অ্যাপ্লিকেশন - ছাত্র, শিক্ষক, জামাত, বিষয়, পরীক্ষা, ফলাফল, প্রশ্নপত্র ও সনদপত্র তৈরি।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
